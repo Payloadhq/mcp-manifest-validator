@@ -1,0 +1,13 @@
+{
+  "name": "io.github.acme/demo-server",
+  "title": "Demo Server",
+  "description": "Name does not match repository.url.",
+  "license": "MIT",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "version": "1.0.0",
+  "repository": { "url": "https://github.com/otherorg/other-repo", "source": "github" },
+  "packages": [
+    { "registryType": "npm", "identifier": "demo-server", "version": "1.0.0",
+      "transport": { "type": "stdio" } }
+  ]
+}
