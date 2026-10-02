@@ -1,0 +1,6 @@
+{
+  "name": "io.github.acme/demo-server",
+  "description": "No packages.",
+  "version": "1.0.0",
+  "repository": { "url": "https://github.com/acme/demo-server", "source": "github" }
+}
