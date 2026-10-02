@@ -1,0 +1,10 @@
+{
+  "name": "not a valid name!!!",
+  "description": "Bad name.",
+  "version": "1.0.0",
+  "repository": { "url": "https://github.com/acme/x", "source": "github" },
+  "packages": [
+    { "registryType": "npm", "identifier": "x", "version": "1.0.0",
+      "transport": { "type": "stdio" } }
+  ]
+}
