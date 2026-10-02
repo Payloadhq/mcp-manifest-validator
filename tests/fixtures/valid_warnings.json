@@ -1,0 +1,17 @@
+{
+  "name": "io.github.acme/demo-server",
+  "title": "Demo Server",
+  "description": "A demo MCP server used as a validator fixture.",
+  "version": "1.2.3",
+  "repository": {
+    "url": "https://github.com/acme/demo-server",
+    "source": "github"
+  },
+  "packages": [
+    {
+      "registryType": "myregistry",
+      "identifier": "demo-server",
+      "transport": { "type": "stdio" }
+    }
+  ]
+}
