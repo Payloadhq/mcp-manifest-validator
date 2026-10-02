@@ -1,0 +1,10 @@
+{
+  "name": "io.github.acme/demo-server",
+  "description": "Bad version.",
+  "version": "v1",
+  "repository": { "url": "https://github.com/acme/demo-server", "source": "github" },
+  "packages": [
+    { "registryType": "npm", "identifier": "demo-server", "version": "v1",
+      "transport": { "type": "stdio" } }
+  ]
+}
