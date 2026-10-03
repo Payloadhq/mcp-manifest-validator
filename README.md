@@ -101,3 +101,10 @@ stress-test harness, readiness verifier, and CI workflow — see the
 ## License
 
 MIT — see [LICENSE](LICENSE). Copyright 2026 Payload.
+
+---
+
+**Payload** — small, sharp tools for developers.
+Developer portal: https://payloadhq.github.io/ ·
+All products: https://payloadtools.gumroad.com/ ·
+Contact: kylers.partners@gmail.com
