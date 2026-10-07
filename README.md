@@ -1,9 +1,9 @@
-# mcp-manifest-validator
+# mcp-manifest-validator by Payload
 
-**Small software that earns its keep.** — a Payload free utility
+**Small software that earns its keep.** A free utility by Payload.
 
 A zero-dependency Python CLI that validates an MCP `server.json` manifest
-against the key requirements of the official MCP server schema — without
+against the key requirements of the official MCP server schema - without
 needing the schema file itself.
 
 ## Install
@@ -93,18 +93,18 @@ This is a fast manifest sanity check, not a security or readiness audit. It
 doesn't test your server's tools, scan for prompt-injection surface, check
 hardening, or verify the package actually installs.
 
-For the full 48-rule scan — tool surface analysis, hardening templates,
-stress-test harness, readiness verifier, and CI workflow — see the
+For the full 48-rule scan - tool surface analysis, hardening templates,
+stress-test harness, readiness verifier, and CI workflow - see the
 **[MCP Launch Readiness Audit](https://payloadtools.gumroad.com/l/mcp-launch-readiness-audit)**
 ($79) by Payload.
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Copyright 2026 Payload.
+MIT - see [LICENSE](LICENSE). Copyright 2026 Payload.
 
 ---
 
-**Payload** — small, sharp tools for developers.
+**Payload** - small, sharp tools for developers.
 Developer portal: https://payloadhq.github.io/ ·
 All products: https://payloadtools.gumroad.com/ ·
 Contact: kylers.partners@gmail.com
