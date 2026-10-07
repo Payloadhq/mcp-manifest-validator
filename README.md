@@ -111,3 +111,9 @@ MIT - see [LICENSE](LICENSE). Copyright 2026 Payload.
 Developer portal: https://payloadhq.github.io/ ·
 All products: https://payloadtools.gumroad.com/ ·
 Contact: kylers.partners@gmail.com
+
+---
+
+**More from Payload** · [payloadhq.github.io](https://payloadhq.github.io/) · [all Payload repos](https://github.com/Payloadhq)
+
+Related: [mcp-readiness-check](https://github.com/Payloadhq/mcp-readiness-check) · [payload-sample-mcp-server](https://github.com/Payloadhq/payload-sample-mcp-server)
