@@ -77,6 +77,9 @@ Notes on scope, stated plainly:
   the MCP registry expects for GitHub-published servers.
 - The official schema does not pattern-constrain `version`; we require semver
   because registries and package managers expect it.
+- The official schema requires only `name`, `description`, and `version`;
+  `repository`, `repository.url`, and a non-empty `packages` array are errors
+  here because they are required for registry publication, not by the schema.
 - `license` and `$schema` are advisory here, not schema requirements.
 
 ## Tests
